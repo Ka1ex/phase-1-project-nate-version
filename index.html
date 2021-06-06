@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>My Movie List</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./styles.css">
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <div id="header">
+            <div>
+                 <h1>MyMovieList.com</h1>
+                 <div id="imdb">
+                     <h3>Powered by IMDB</h3>
+                     <img src="https://th.bing.com/th/id/R02f25cb929220bb1a816da1e35ab93dc?rik=JsnbhyLYDIMIJQ&pid=ImgRaw" alt="">
+                </div>
+            </div>
+        </div>
+        <div id="searchForm">
+            <form id='selectSearch'>
+                <div id='radio' placeholder=" " >
+                    <input type="radio" id="title" name="searchSelected" placeholder="title">
+                    <label for="title">Title</label>
+                    <input type="radio" id="performer" name="searchSelected">
+                    <label for="performer">Performer</label>
+                    <input type="radio" id="genre" name="searchSelected">
+                    <label for="genre">Genre</label>
+                    <input type="radio" id="year" name="searchSelected">
+                    <label for="year">Year</label>
+                    
+                </div>
+            </form>
+            <form id= 'secondForm'>
+                <!-- <label for="title"> Title</label>
+                <textarea id="title">Please select a Movie Title</textarea>
+                <br>
+                <label for="performer">Performer</label>
+                <textarea id="performer">Please select a Performer</textarea>
+                <br>
+                <label for="genre">Genre</label>
+                <textarea id="genre">Please select a Genre</textarea>
+                <input type="submit" value="Submit"> -->
+            </form>
+
+        </div>
+        <div id='searchResults' >
+            <!-- After the list populated it give a button to add to watch later -->
+            
+        </div>
+        <div>
+         <div id= watchList></div>
+         <div id= watched></div>
+        </div>
+         <div id='name'>
+         </div>
+    </body>
+</html>

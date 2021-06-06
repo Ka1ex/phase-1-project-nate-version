@@ -1,1 +1,3 @@
-# phase-1-project-nate-version
+# phase-1-project
+Phase 1 Project
+add and push

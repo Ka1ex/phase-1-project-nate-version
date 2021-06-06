@@ -1,0 +1,106 @@
+{
+  "groupMembers": [
+    {
+      "id": 1,
+      "name": "Justin McArthur",
+      "image": "https://ca.slack-edge.com/T02MD9XTF-U01T2PEP9DH-8505f80d38c3-512",
+      "github": "https://github.com/JustinDMc",
+      "linkedIn": "https://www.linkedin.com/in/daniel-mcarthur-7a928b133/",
+      "blog": "https://jdanielmcarthur.medium.com/"
+    },
+    {
+      "id": 2,
+      "name": "Garrett Bourque",
+      "image": "https://ca.slack-edge.com/T02MD9XTF-U020YH35694-f4b8a7eeb309-512",
+      "github": "https://github.com/garrettbourque",
+      "linkedIn": "",
+      "blog": "https://bourque-garrett.medium.com/third-life-crisis-3b21a116a49b"
+    },
+    {
+      "id": 3,
+      "name": "Nate Montgomery",
+      "image": "https://avatars.githubusercontent.com/u/45609852?s=400&u=50d6c44a2a312e236fa5b01e3b2e4800b9693c6d&v=4",
+      "github": "https://github.com/Ka1ex",
+      "linkedIn": "https://www.linkedin.com/in/nat3-Montgomery",
+      "blog": "https://kalexadamson.medium.com/perceptive-reality-from-the-eyes-of-an-entry-level-dev-7789c8137542"
+    }
+  ],
+  "moviesToWatch": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "title": "Sleepers",
+      "id": 10
+    },
+    {
+      "title": "Sleep with Me",
+      "id": 11
+    },
+    {
+      "title": "Spaceballs",
+      "id": 12
+    },
+    {
+      "title": "Cruella Marshall",
+      "id": 13
+    },
+    {
+      "title": "Bereullin ripoteu",
+      "id": 14
+    },
+    {
+      "title": "holes in the wall",
+      "id": 15
+    },
+    {
+      "title": "Holes",
+      "id": 16
+    },
+    {
+      "title": "Holes",
+      "id": 17
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "id": 18
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "id": 19
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "id": 20
+    },
+    {
+      "title": "Queen of the South",
+      "id": 21
+    }
+  ],
+  "moviesWatched": []
+}
